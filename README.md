@@ -1,1 +1,1 @@
-# application-de-ma-trise-de-calcules-des-annuit-s-avec-leurs-applications-pour-les-emprunts-indivis-
+# application-de-maitrise-de-calcules-des-annuites-avec-leurs-applications-pour-les-emprunts-indivis-
